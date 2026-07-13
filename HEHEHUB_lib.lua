@@ -1,6 +1,6 @@
 --[[
-hoho ui lib by @acsu123#9826
-hoho dis: discord.gg/9TawdWNchg
+hoho ui lib by @asv911
+
 -----------------------------------------------------
 local lib = loadstring(game:HttpGet("link", true))()
 local win = lib:Window("Hub Name","Game Name",Color3.new(0.333333, 0.666667, 1))
