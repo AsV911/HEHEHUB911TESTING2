@@ -1,5 +1,5 @@
 --[[ 
-    Notify Lib by me: mr.xrer
+    Notify Lib by me: asv911
     Changelog:
         25.07.2023:
             - Time argument, autoclose
